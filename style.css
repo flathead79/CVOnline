@@ -1,0 +1,28 @@
+body {
+    margin : 0 auto;
+    max-width: 45em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color:#555;
+}
+h4 {
+    float:left;
+    color:#333;
+    margin-top: 0px;
+}
+h2 {
+    color:#333;
+    padding-bottom: 1em;
+}
+h5 {
+    color:#333;
+    line-height: 0%;
+}
+.sisennys {
+    margin-left : 110px;
+}
+ul {
+    list-style-type:none
+}
+li {
+    line-height: 1.4em;
+}
